@@ -1,0 +1,16 @@
+.container.instancia__container {
+    width: 75%;
+    display: grid;
+    gap: 12%;
+}
+
+.instancias__items {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.instancias__item  {
+    position: absolute;
+    bottom: 0;
+}
